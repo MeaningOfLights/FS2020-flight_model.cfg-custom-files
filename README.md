@@ -64,5 +64,11 @@ Please submit a Pull Request and we'll merge if there's no conflicts! Thanks!
 - Initial upload for the F16 and starwars-x-wing and TopGun versions with reduced the weight.
 
 
+# How do I compare changes?
+
+Using VsCode is an easy way and this will allow you to contribute to GitHub as well.
+
+![Vs Code Compare](https://github.com/MeaningOfLights/FS2020-flight_model.cfg-custom-files/blob/main/media/VsCodeCompare.png)
+
 
 
