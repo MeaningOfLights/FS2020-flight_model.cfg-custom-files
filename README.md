@@ -1,14 +1,14 @@
 ## FS2020-flight_model.cfg-custom-files
 
 
-# Instroduction
+# Introduction
 
-It's possible to downloadg Plane Add-Ons and customise these Microsoft Flight Simulator 2020 aircraft characteristics and behaviour.
+You can download icrosoft Flight Simulator 2020 aircraft as "Plane Add-Ons" and customise the characteristics and behaviour.
 
 
 # How do I set this up?
 
-To participate you will need FS2020 and to download these Plane Add-ons:
+You will need FS2020 and to download these Plane Add-ons:
 
 https://flightsim-squadron.itch.io/flightsim-aircraft?download
 
@@ -47,7 +47,8 @@ REF: https://www.avsim.com/forums/topic/585357-fs2020-modifying-flight-model-cfg
 
 # How do I contribute?
 
-Please branch as there maybe multiple config's for the same plane, eg "river racing" settings through to "realistic pilot experience" settings.
+To participate please create new unqiue folder names per mod as there maybe multiple config's for the same plane, eg "river racing" settings through to "realistic pilot experience" settings. Please create branches for updates to the truck or for new folders with unique configs.
 
-Submit a Pull Request and we'll merge if there's no conflicts!
+
+Submit a Pull Request and we'll merge if there's no conflicts! Thanks!
 
