@@ -61,9 +61,11 @@ Please submit a Pull Request and we'll merge if there's no conflicts! Thanks!
 
 # History 
 2020-12-13
-- Initial upload for the Raptor F22 orig and mod for the TopGun versions - including weight, yaw and lift, TO DO need to tweak roll settings for Top Gun style.
+- Initial upload for the Raptor F22 orig and mod for the TopGun version - including weight, yaw and lift, 
 
-- Initial upload for the F16 and starwars-x-wing and TopGun versions with reduced the weight.
+- TO DO f22 need to tweak roll settings for Top Gun style.
+
+- Initial upload for the F16 and starwars-x-wing and TopGun versions with reduced weight.
 
 
 # How do I compare changes?
