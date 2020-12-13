@@ -8,7 +8,7 @@ You can download Microsoft Flight Simulator 2020 aircraft as "Plane Add-Ons" and
 
 # How do I set this up?
 
-You will need FS2020 and download these Plane Add-ons:
+You will need FS2020 installed and these Plane Add-ons downloaded:
 
 https://flightsim-squadron.itch.io/flightsim-aircraft?download
 
