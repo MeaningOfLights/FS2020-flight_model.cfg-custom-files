@@ -1,4 +1,4 @@
-## FS2020-flight_model.cfg-custom-files
+By## FS2020 custo. flight_model aircraft (cfg-files)
 
 
 # Introduction
@@ -49,9 +49,11 @@ REF: https://www.avsim.com/forums/topic/585357-fs2020-modifying-flight-model-cfg
 
 # How do I contribute?
 
-To participate please create new unqiue folder names per mod as there maybe multiple config's for the same plane, eg "river racing" settings through to "realistic pilot experience" settings. 
+To participate please create new unqiue folder names per mod as there maybe multiple config's for the same plane, 
+eg "river racing" settings through to "realistic pilot experience" settings. 
 
-Please create branches for updates to the trunk or add config file to a directory with a suffix and version, eg f22_TopGun_V1.
+Please create branches for updates to the trunk or add config file to a directory with a suffix and version, 
+eg f22_TopGun_V1.
 
 
 Please submit a Pull Request and we'll merge if there's no conflicts! Thanks!
