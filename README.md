@@ -3,22 +3,22 @@
 
 # Introduction
 
-You can download Microsoft Flight Simulator 2020 aircraft as "Plane Add-Ons" and customise the characteristics.
+You can download Microsoft Flight Simulator 2020 "Plane Add-Ons" and customise the aircraft characteristics.
 
 
 # How do I set this up?
 
-You will need FS2020 installed and these Plane Add-ons downloaded:
+You will need FS2020 installed and these plane add-ons downloaded:
 
 https://flightsim-squadron.itch.io/flightsim-aircraft?download
 
-Unzip the plane packages to **C:\Users\<YouUserName>\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\<edition>**, eg:
+Unzip the plane add-on packages to **C:\Users\<YouUserName>\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\<edition>**, eg:
 
 `C:\Users\<YouUserName>\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community\f22-raptor\SimObjects\Airplanes\f22`
 
-Restart FS2020 and the Planes will be available to fly!
+Restart FS2020 and the plane add-ons will be available to fly!
 
-You can get the Star Wars Add-Ons from here: https://eggman28.itch.io/flight-sim-star-wars-ships
+You can get the Star Wars add-ons from here: https://eggman28.itch.io/flight-sim-star-wars-ships
 
 
 # How do I use it?
@@ -51,7 +51,7 @@ REF: https://www.avsim.com/forums/topic/585357-fs2020-modifying-flight-model-cfg
 
 To participate please create new unqiue folder names per mod as there maybe multiple config's for the same plane, eg "river racing" settings through to "realistic pilot experience" settings. 
 
-Please create branches for updates to the trunk or for unique configs to add-on planes simply add the config file to a directory with a suffix and version, eg f22_TopGun_V1.
+Please create branches for updates to the trunk or add config file to a directory with a suffix and version, eg f22_TopGun_V1.
 
 
 Please submit a Pull Request and we'll merge if there's no conflicts! Thanks!
