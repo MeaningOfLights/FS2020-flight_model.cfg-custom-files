@@ -3,7 +3,7 @@
 
 # Introduction
 
-You can download Microsoft Flight Simulator 2020 **Plane Add-Ons"" and customise the aircraft characteristics.
+You can download Microsoft Flight Simulator 2020 **Plane Add-Ons** and customise the aircraft characteristics.
 
 
 # How do I set this up?
