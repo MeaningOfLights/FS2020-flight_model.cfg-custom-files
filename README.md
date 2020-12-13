@@ -1,4 +1,4 @@
-By## FS2020 custo. flight_model aircraft (cfg-files)
+## FS2020 custom flight_model aircraft (cfg-files)
 
 
 # Introduction
