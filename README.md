@@ -3,7 +3,7 @@
 
 # Introduction
 
-You can download icrosoft Flight Simulator 2020 aircraft as "Plane Add-Ons" and customise the characteristics and behaviour.
+You can download Microsoft Flight Simulator 2020 aircraft as "Plane Add-Ons" and customise the characteristics and behaviour.
 
 
 # How do I set this up?
@@ -16,17 +16,17 @@ Unzip the plane packages to **C:\Users\<YouUserName>\AppData\Local\Packages\Micr
 
 `C:\Users\<YouUserName>\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community\f22-raptor\SimObjects\Airplanes\f22`
 
+Restart FS2020 and the Planes will be available to fly!
+
 
 # How do I use it?
 
-Next download (or clone this repo) and use the **flight_model.cfg** files in this repo to overwrite your local ones. You can always revert back by unzipping the package again.
+Next download (or clone) this repo and use the **flight_model.cfg** files to overwrite your local ones. You can always revert back by unzipping the packages again.
 
 
 # How do I customise the files myself on-the-fly?
 
 Here is how you can instantly see your flight model edits on the fly without restarting the whole sim:
-
-It is as explained above but with some very important extra steps:
 
 1. Before your game turn on developer mode (Options Generatal > Developer > On). You will need to make sure you see the "Developer Black Menu Bar" at the top of the Window.
 
@@ -47,7 +47,7 @@ REF: https://www.avsim.com/forums/topic/585357-fs2020-modifying-flight-model-cfg
 
 # How do I contribute?
 
-To participate please create new unqiue folder names per mod as there maybe multiple config's for the same plane, eg "river racing" settings through to "realistic pilot experience" settings. Please create branches for updates to the truck or for new folders with unique configs.
+To participate please create new unqiue folder names per mod as there maybe multiple config's for the same plane, eg "river racing" settings through to "realistic pilot experience" settings. Please create branches for updates to the trunk or more generally for unique configs for add-on planes.
 
 
 Submit a Pull Request and we'll merge if there's no conflicts! Thanks!
