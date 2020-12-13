@@ -3,7 +3,7 @@
 
 # Introduction
 
-You can download Microsoft Flight Simulator 2020 "Plane Add-Ons" and customise the aircraft characteristics.
+You can download Microsoft Flight Simulator 2020 **Plane Add-Ons"" and customise the aircraft characteristics.
 
 
 # How do I set this up?
@@ -12,7 +12,7 @@ You will need FS2020 installed and these plane add-ons downloaded:
 
 https://flightsim-squadron.itch.io/flightsim-aircraft?download
 
-Unzip the plane add-on packages to **C:\Users\<YouUserName>\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\<edition>**, eg:
+Unzip the plane add-on packages to **C:\Users\YouUserName\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\<edition>**, eg:
 
 `C:\Users\<YouUserName>\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community\f22-raptor\SimObjects\Airplanes\f22`
 
@@ -30,19 +30,19 @@ Next download (or clone) this repo and use the **flight_model.cfg** files to ove
 
 Here is how you can instantly see your flight model edits on the fly without restarting the whole sim:
 
-1. Before your game turn on developer mode (Options Generatal > Developer > On). You will need to make sure you see the "Developer Black Menu Bar" at the top of the Window.
+1. Before your game, turn on the developer mode (Options > General > Developer > On). Make sure you see the "Developer Black Menu Bar" at the top of the Window.
 
-2. Pause the sim and do your tweak in the **flight_model.cfg** file.
+2. Pause the sim during flight and do your tweak in the **flight_model.cfg** file.
 
-3. Go to top Developer mode (black) menu and click "new project". Press ok.
+3. Go to top Developer mode menu and click "new project". Press ok.
 
-4. Again go to top Developer mode (black) menu and select aircraft menu and click "Aircraft editor".
+4. Again go to top Developer mode menu and select aircraft menu and click "Aircraft editor".
 
-5. Now press select the "aircraft" menu and then press "resync".
+5. Now select the "aircraft" menu and then press "resync".
 
 6. Un-pause the sim.
 
-7. You do not need to "save" the project. It is open anyway. DO NOT MOVE ANYTHING until the aircraft is fully reloaded (or you might get a crash).
+7. You "don't need to save" the project. It is open anyway. DO NOT MOVE ANYTHING until the aircraft is fully reloaded (or you might get a crash).
 
 REF: https://www.avsim.com/forums/topic/585357-fs2020-modifying-flight-model-cfg-without-restarting-sim/?do=findComment&comment=4354597
 
