@@ -5,7 +5,7 @@
 
 You can download Microsoft Flight Simulator 2020 **Plane Add-Ons** and customise the aircraft characteristics.
 
-![River Racing an F22-Raptor behind Airport VKPQ - Caro](https://github.com/MeaningOfLights/FS2020-flight_model.cfg-custom-files/blob/main/media/Scene.png)
+![River Racing an F22-Raptor behind-Airport-VKPQ - Caro](https://github.com/MeaningOfLights/FS2020-flight_model.cfg-custom-files/blob/main/media/behind-Airport-VKPQ.png)
 
 
 # How do I set this up?
@@ -30,11 +30,11 @@ Next download (or clone) this repo and use the **flight_model.cfg** files to ove
 
 # How do I customise the files myself "on-the-fly"?
 
-Here is how you can instantly see your flight model edits on the fly without restarting the whole sim:
+You can instantly see your flight model edits on the fly without restarting the whole sim:
 
-1. Before your game, turn on the developer mode (Options > General > Developer > On). Make sure you see the "Developer Black Menu Bar" at the top of the Window.
+1. Before your game, turn on the developer mode (Options > General > Developer > On). Make sure you see the "Developer Menu Bar" at the top of the Window as shown above.
 
-2. Pause the sim during flight and do your tweak in the **flight_model.cfg** file.
+2. Pause the sim during flight and tweak the **flight_model.cfg** file. Save file.
 
 3. Go to top Developer mode menu and click "new project". Press ok.
 
@@ -66,16 +66,6 @@ Please submit a Pull Request and we'll merge if there's no conflicts! Thanks!
 # History 
 2020-12-13
 - Initial upload for the Raptor F22 orig and mod for the TopGun version - including weight, yaw and lift, 
-
-- TO DO f22 need to tweak roll settings for Top Gun style.
-
-- Initial upload for the F16 and starwars-x-wing and TopGun versions with reduced weight.
-
-
-# How do I compare changes?
-
-Using VsCode is an easy way and this will allow you to contribute to GitHub as well.
-
 
 - TO DO f22 need to tweak roll settings for Top Gun style.
 
